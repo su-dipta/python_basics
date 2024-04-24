@@ -1,3 +1,3 @@
 # python_basics
 
-Basic python programming for beginners
+Basic python programming for absolute beginners
